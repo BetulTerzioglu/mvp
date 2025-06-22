@@ -1,0 +1,16 @@
+{
+  "name": "conduct-chat-mvp",
+  "version": "0.1.0",
+  "description": "MVP implementation of Conduct.chat - AI Agent Orchestration Platform",
+  "scripts": {
+    "start:frontend": "cd frontend && npm start",
+    "start:backend": "cd backend && npm start",
+    "dev": "concurrently \"npm run start:frontend\" \"npm run start:backend\"",
+    "install:all": "npm install && cd frontend && npm install && cd ../backend && npm install"
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "author": "",
+  "license": "MIT"
+} 
