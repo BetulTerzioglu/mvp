@@ -1,4 +1,4 @@
-# Conduct.chat MVP
+# Block Nexus MVP
 
 Bu proje, Conduct.chat platformunun MVP (Minimum Viable Product) versiyonudur. AI ajanlarının yönetimi ve orkestrasyon işlemlerini gerçekleştiren bir platform sunar.
 
